@@ -1,7 +1,9 @@
 Project Name: Cartify
 
 Description
+
 Youtube Demo Link: https://www.youtube.com/watch?v=tsP67UsgmQA
+
 Cartify is an e-commerce application developed using the Qt Framework. This application provides a modern graphical user interface that allows users to browse products, manage shopping carts, and apply discounts.
 ________________________________________
 Compiling and Running the Project
