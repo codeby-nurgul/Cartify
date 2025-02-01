@@ -1,19 +1,7 @@
-# -OOP_Group20
-
-# E-commerce Shopping Cart System
-
-## Group Members
-1. **21050111046 - Dilek Miraç Çolak**
-2. **21050111072 - Nurgül Yalman**
-3. **22050111079 - Abdullah Tülek**
-4. **22050111041 - Muhammet Enes Varol**
-
-## Project Description
-This repository contains the implementation of an E-commerce Shopping Cart System. The system is designed to allow users to browse products, add items to their cart, and proceed to checkout. Key features include product management, checkout process, and the application of discounts and promotions.
-
-
 Project Name: Cartify
+
 Description
+Youtube Demo Link: https://www.youtube.com/watch?v=tsP67UsgmQA
 Cartify is an e-commerce application developed using the Qt Framework. This application provides a modern graphical user interface that allows users to browse products, manage shopping carts, and apply discounts.
 ________________________________________
 Compiling and Running the Project
@@ -49,18 +37,6 @@ Controls
 •	Logout: Click the "Logout" button to sign out of your account.
  	
 
-Nurgül Yalman 
-Responsible for the Main Interface, including the development of the MainWindow class, displaying product pages, the cart, and user profiles, and managing GUI interactions such as button clicks. Additionally, handles Cart Management by developing the Cart class, implementing functions for adding, removing, and clearing items in the cart, and integrating the cart with the payment system. Lastly, oversees Integration and Testing to ensure the integration of all modules.
 
-Muhammet Enes Varol 
-Manages Payment and Receipt Management, including the development of the Payment and Receipt classes, implementing discount calculations and applying them, completing payment processes, and displaying receipt details in the UI. Also handles Search and Discount Functions by integrating and managing the search functionality. Created doxygen file.
-
-Dilek Miraç Çolak 
-Development of the Product class and focuses on Product Management, product IDs, descriptions, prices, comments, and sizes. Txt and upload images. 
-Abdullah Tülek
-Development of the Customer and UserManager classes, implementing user login and registration functions such as login and signUp.
-
-
-Youtube Demo Link: https://www.youtube.com/watch?v=tsP67UsgmQA
 
 Doxygen Html File Link: https://cartify-group20.netlify.app/
