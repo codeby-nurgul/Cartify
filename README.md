@@ -19,17 +19,21 @@ Güvenli Çıkış: "Çıkış Yap" düğmesi ile oturum kapatılabilir.
 Qt Framework: Qt Creator ve Qt kütüphanelerinin yüklü olması gerekmektedir.
 Geliştirme Ortamı: Qt Creator veya Qt uyumlu başka bir IDE.
 💻 Derleme Adımları
+
 1️⃣ Projeyi Açma:
 
 Qt Creator'u başlatın.
 File > Open File or Project seçeneğini kullanarak Cartify.pro dosyasını açın.
+
 2️⃣ Qt Sürümü ve Derleyiciyi Seçme:
 
 Projects sekmesinden uygun bir Qt Kit seçildiğinden emin olun.
 Örneğin: Desktop Qt X.X.X GCC 64bit.
+
 3️⃣ Projeyi Derleme:
 
 Build > Build Project seçeneğine tıklayın veya Ctrl + B kısayolunu kullanın.
+
 4️⃣ Uygulamayı Çalıştırma:
 
 Release modunu seçin ve Run Cartify düğmesine tıklayın veya Ctrl + R tuşuna basın.
