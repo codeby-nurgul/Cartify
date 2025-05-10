@@ -1,6 +1,6 @@
 Cartify, Qt Framework kullanılarak geliştirilmiş bir e-ticaret uygulamasıdır. Bu uygulama, kullanıcıların ürünleri görüntülemesine, alışveriş sepetini yönetmesine ve indirimler uygulamasına olanak tanıyan modern bir grafiksel arayüz sunar.
 
-📺 YouTube Demo: Cartify Tanıtım Videosu
+📺 Cartify Tanıtım Videosu: https://youtu.be/tsP67UsgmQA
 
 🌐 Doxygen HTML Belgeleri: Cartify Dökümantasyonu
 
