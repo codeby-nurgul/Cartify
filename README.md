@@ -1,45 +1,78 @@
-Cartify, Qt Framework kullanılarak geliştirilmiş bir e-ticaret uygulamasıdır. Bu uygulama, kullanıcıların ürünleri görüntülemesine, alışveriş sepetini yönetmesine ve indirimler uygulamasına olanak tanıyan modern bir grafiksel arayüz sunar.
+# 🛍️ Cartify
 
-📺 Cartify Tanıtım Videosu: https://youtu.be/tsP67UsgmQA
+**Cartify** is a modern desktop e-commerce application built using the **Qt Framework**.  
+It allows users to browse products, manage a shopping cart, spin a discount wheel, and complete purchases through a clean, user-friendly graphical interface.
 
-🌐 Doxygen HTML Belgeleri: Cartify Dökümantasyonu
+---
 
-📌 Özellikler
-Kullanıcı Girişi ve Kayıt: Kullanıcılar hesap oluşturabilir ve giriş yapabilir.
-Ürün Kategorileri: Elektronik ve Giyim kategorilerindeki ürünleri görüntüleyebilir.
-Alışveriş Sepeti Yönetimi:
-Ürünleri sepete ekleyebilir veya favorilere alabilir.
-Sepetten ürün çıkarabilir veya satın alma işlemi gerçekleştirebilir.
-İndirim Çarkı: Rastgele indirim kazanmak için çarkı döndürebilir.
-Profil Görüntüleme: Favori ürünler ve geçmiş siparişler incelenebilir.
-Kolay Navigasyon: Üst menü üzerinden kategorilere ve kullanıcı profiline hızlı erişim.
-Güvenli Çıkış: "Çıkış Yap" düğmesi ile oturum kapatılabilir.
-🚀 Projeyi Derleme ve Çalıştırma
-🛠️ Gereksinimler
-Qt Framework: Qt Creator ve Qt kütüphanelerinin yüklü olması gerekmektedir.
-Geliştirme Ortamı: Qt Creator veya Qt uyumlu başka bir IDE.
-💻 Derleme Adımları
+🎥 **Demo Video**: [Watch on YouTube](https://youtu.be/tsP67UsgmQA)  
+📖 **Documentation**: Doxygen HTML Docs
 
-1️⃣ Projeyi Açma:
+---
 
-Qt Creator'u başlatın.
-File > Open File or Project seçeneğini kullanarak Cartify.pro dosyasını açın.
+## 📌 Features
 
-2️⃣ Qt Sürümü ve Derleyiciyi Seçme:
+- 👤 **User Login & Registration**  
+  Users can sign up and log in securely.
 
-Projects sekmesinden uygun bir Qt Kit seçildiğinden emin olun.
-Örneğin: Desktop Qt X.X.X GCC 64bit.
+- 🛒 **Shopping Cart Management**  
+  Add/remove products, add to favorites, and complete purchases.
 
-3️⃣ Projeyi Derleme:
+- 🧭 **Easy Navigation**  
+  Quick access to product categories and user profile via the top menu.
 
-Build > Build Project seçeneğine tıklayın veya Ctrl + B kısayolunu kullanın.
+- 🎡 **Discount Wheel**  
+  Spin the wheel to win random discounts.
 
-4️⃣ Uygulamayı Çalıştırma:
+- 📦 **Product Categories**  
+  View products under Electronics and Clothing sections.
 
-Release modunu seçin ve Run Cartify düğmesine tıklayın veya Ctrl + R tuşuna basın.
-📌 Kullanım Talimatları
-İşlem	Kontrol
-Ana Menü	Üst menüden kategorilere veya profile erişim sağlar.
-Sepet Yönetimi	"Cart" butonuna tıklayarak sepete eklenen ürünler görüntülenebilir.
-Satın Alma	"Buy" butonu ile alışveriş tamamlanabilir.
-Çıkış Yapma	"Logout" butonu ile hesap çıkışı yapılabilir.
+- 📂 **Profile Overview**  
+  Access order history and favorite items.
+
+- 🔐 **Secure Logout**  
+  End user sessions easily using the Logout button.
+
+---
+
+## 🛠 Requirements
+
+- Qt Creator IDE  
+- Qt Framework (e.g., Qt 5.15+)
+
+---
+
+## 🚀 Build & Run Instructions
+
+### 1️⃣ Open the Project
+
+- Launch Qt Creator  
+- Go to `File > Open File or Project`  
+- Select the `Cartify.pro` file
+
+### 2️⃣ Select Qt Kit
+
+- In the `Projects` tab, make sure a valid Qt Kit is selected  
+  Example: `Desktop Qt 5.15.2 GCC 64bit`
+
+### 3️⃣ Build the Project
+
+- Click `Build > Build Project` or press `Ctrl + B`
+
+### 4️⃣ Run the App
+
+- Switch to `Release` mode  
+- Press `Run` or hit `Ctrl + R`
+
+---
+
+## 🧪 How to Use
+
+| Action             | Description                                                        |
+|--------------------|--------------------------------------------------------------------|
+| **Navigation**     | Use the top menu to access categories and profile                  |
+| **View Cart**      | Click "Cart" to view selected items                                |
+| **Buy Products**   | Click "Buy" to complete a purchase                                 |
+| **Logout**         | Click "Logout" to securely sign out                                |
+
+---
